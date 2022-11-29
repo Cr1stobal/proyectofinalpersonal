@@ -1,0 +1,7 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/Slipknot.jpg?alt=media&token=68255250-d30b-4456-ab66-621ab539b31e');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+}
